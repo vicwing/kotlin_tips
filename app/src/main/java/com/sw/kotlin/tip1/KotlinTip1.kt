@@ -1,5 +1,9 @@
 package com.sw.kotlin.tip1
 
+fun main() {
+    testString()
+}
+
 /*
 * kotlin对字符串的加强，三个引号"""中可以包含换行、反斜杠等等特殊字符
 * */
